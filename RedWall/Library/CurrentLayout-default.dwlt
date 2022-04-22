@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 68
+  controlID: 110
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Environment/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Environment/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\admin\RedWall
+  m_LastProjectPath: C:\Users\admin\Documents\GitHub\RedWall\RedWall
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 62810000
-    m_LastClickedID: 33122
-    m_ExpandedIDs: 000000006281000000ca9a3b
+    m_SelectedIDs: 1a520000
+    m_LastClickedID: 21018
+    m_ExpandedIDs: 00000000a6510000ba510000da51000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000a6510000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -481,9 +481,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 74810000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 0cdbffff
+      m_SelectedIDs: 14aeffff
+      m_LastClickedID: -20972
+      m_ExpandedIDs: 4ab1ffff2abffffff4faffff68fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 2.4228673, y: 40.5237, z: -26.153294}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 2.4228673, y: 40.5237, z: -26.153294}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,13 +592,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.17041084, y: -0.026606193, z: 0.004603109, w: 0.9850036}
+    m_Target: {x: -0.36684328, y: -0.6306791, z: 0.4472725, w: -0.51743007}
     speed: 2
-    m_Value: {x: 0.17041077, y: -0.02660618, z: 0.0046031065, w: 0.9850031}
+    m_Value: {x: -0.36749235, y: -0.6298655, z: 0.4466957, w: -0.5183453}
   m_Size:
-    m_Target: 10
+    m_Target: 26.09437
     speed: 2
-    m_Value: 10
+    m_Value: 27.323948
   m_Ortho:
     m_Target: 0
     speed: 2
